@@ -1,5 +1,5 @@
 ---
-description: DeFi for the People, not the Developers
+description: Building The Backbone for Theta's DeFi Ecosystem
 ---
 
 # 🍫 Choco Finance

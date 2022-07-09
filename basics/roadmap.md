@@ -6,9 +6,9 @@ description: Updated with each approved CIP and TAP
 
 ### Q2 2022
 
-* [ ] Socials (Twitter, Discord, Telegram)
+* [x] Socials (Twitter, Discord, Telegram)
 * [ ] Smart contracts on Theta Testnet
-* [ ] Landing site
+* [x] Landing site
 
 ### Q3 2022
 

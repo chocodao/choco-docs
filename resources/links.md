@@ -6,7 +6,7 @@ Make sure to always use this link to access our Website**,** to avoid scams or p
 
 ### Github
 
-You can find the code for all of our smart contracts on our Github page!
+You can find the code for all of our smart contracts on our GitHub page!
 
 ### Twitter
 

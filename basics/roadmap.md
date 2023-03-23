@@ -4,24 +4,27 @@ description: Updated with each approved CIP and TAP
 
 # Roadmap
 
-### Q2 2022
+### Q1 2023
 
 * [x] Socials (Twitter, Discord, Telegram)
 * [ ] Smart contracts on Theta Testnet
 * [x] Landing site
 
-### Q3 2022
+### Q2 2023 - Pre Launch
 
-* [ ] Dapp on RunOnFlux
 * [ ] BARS Smart contracts on Theta Mainnet
 * [ ] Frontend and smart contracts on GitHub
 * [ ] Public IDO via smart contract&#x20;
 * [ ] Dapp Contracts on Mainnet
 * [ ] Initial Liquidity Created on ThetaSwap.io
-* [ ] **Choco Launch**&#x20;
+
+### &#x20;Mainnet Launch - Early Q3 2023&#x20;
+
+* [ ] Choco Mainnet Launch&#x20;
 
 ### Post Launch
 
+* [ ] Dapp on RunOnFlux
 * [ ] Token List on Coinmarketcap/Coingeko
 * [ ] DAO proposal form
 * [ ] Governance system with BARS
@@ -31,15 +34,13 @@ description: Updated with each approved CIP and TAP
 * [ ] Increase/Decrease of Staking APY (Possible CIP)
 * [ ] Zap In using non-BARS assets
 * [ ] Integration with Theta Wallet Extention
-* [ ] Add more assets to treasury (Possible CIP)
-* [ ] Deploy on one or more EVM chains
+* [ ] Add more assets to the treasury (Possible CIP)
+* [ ] Deploy on more EVM chains
 * [ ] Audit via Certik, RugDoc, etc.
 * [ ] Airdrops for early users
-* [ ] NFT collection sold to fund treasury
+* [ ] NFT collection; proceeds fund treasury
 * [ ] Tutorials and Info on Theta.tv
-* [ ] PoS like rewards (Separate from normal molding)
-* [ ] Lunch dapp on Theta subchain (Upon Mainnet 4.0 release)
-* [ ] TAPs (Treasury Allocation Plans) eg, Staking of treasury's TFUEL in Elite Edge Node
+* [ ] TAPs (Treasury Allocation Plans) eg, Staking of treasury's THETA in Guardian Node
 * [ ] Purchase of TNS for DAO address (Theta Name Service)
-* [ ] Creation of Marketing Davison (Possible CIP)(currently no marketing fee allocation)
+* [ ] Creation of Marketing Division (Possible CIP)(currently no marketing fee allocation)
 * [ ] **Your proposal (Create a CIP!)**&#x20;

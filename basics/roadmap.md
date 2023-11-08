@@ -4,13 +4,13 @@ description: Updated with each approved CIP and TAP
 
 # Roadmap
 
-### Q1 2023
+### Q4 2023
 
 * [x] Socials (Twitter, Discord, Telegram)
 * [ ] Smart contracts on Theta Testnet
 * [x] Landing site
 
-### Q2 2023 - Pre Launch
+### Q1/Q2 2024 — Pre Launch
 
 * [ ] BARS Smart contracts on Theta Mainnet
 * [ ] Frontend and smart contracts on GitHub
@@ -18,7 +18,7 @@ description: Updated with each approved CIP and TAP
 * [ ] Dapp Contracts on Mainnet
 * [ ] Initial Liquidity Created on ThetaSwap.io
 
-### &#x20;Mainnet Launch - Early Q3 2023&#x20;
+### &#x20;Mainnet Launch — Early Q3 2024&#x20;
 
 * [ ] Choco Mainnet Launch&#x20;
 
